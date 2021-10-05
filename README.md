@@ -7,5 +7,5 @@ Repository in javascript
 ### About me
 I'm a {backend, frontend and mobile} developer and technical support specialist.
 
-- [Blog](https://www.treinaweb.com.br/blog/author/fagner-pinheiro/) ✍🏼 - I'm write about many things.
-- [Website](https://fagnerpsantos.dev/) 💻 - Working on it.
+- [Blog](https://jvcbcarvalho.wixsite.com/website) ✍🏼 - I'm write about many things.
+- [Website](https://www.linkedin.com/in/jo%C3%A3o-vitor-carvalho-barros-7500a9222/) 💻 
