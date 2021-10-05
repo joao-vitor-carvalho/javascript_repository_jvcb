@@ -1,3 +1,4 @@
+-- modelo de função 
 
 const bomDia = function (){
   console.log('Bom dia')
