@@ -1,6 +1,6 @@
 # javascript_repository_jvcb
-Repository in javascript
-some scripts in javascript
+Repository in javascript, 
+some scripts in javascript. 
 
 
 # Hi, I'm João! :D
