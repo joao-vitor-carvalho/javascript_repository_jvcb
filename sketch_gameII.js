@@ -1,3 +1,5 @@
+-- script de jogo javascript; 
+
 let imagemCenario;
 let imagemPersonagem;
 let imagemInimigo;
